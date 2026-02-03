@@ -53,10 +53,10 @@ export default function ValentinePage() {
 
   return (
     <main className="flex flex-col items-center justify-center min-h-screen bg-pink-50 relative overflow-hidden p-4 text-center">
-      <img src="/anushka.jpg" alt="Main Pic" className="w-32 h-32 md:w-48 md:h-48 object-cover mb-8 rounded-full shadow-lg border-4 border-pink-200" />
+      <img src="/anushka-happy.jpeg" alt="Main Pic" className="w-32 h-32 md:w-48 md:h-48 object-cover mb-8 rounded-full shadow-lg border-4 border-pink-200" />
       
       <h1 className="text-2xl md:text-4xl font-extrabold text-pink-700 mb-12 px-2">
-        Rimsha, Will you be my Valentine? 🌹
+        Rimsha, Will you be my everything? 🌹
       </h1>
 
       <div className="flex flex-col md:flex-row gap-6 items-center justify-center">
